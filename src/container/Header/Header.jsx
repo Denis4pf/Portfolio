@@ -38,21 +38,21 @@ function Header() {
          </motion.div>
 
          <motion.div
-            whileInView={{ opacity: [0, 1] }}
-            transition={{ duration: 1, delayChildren: 0.5 }}
+            whileInView={{ opacity: [2, 1] }}
+            transition={{ duration: 1, delayChildren: 1.5 }}
             className="app__header-img"
          >
-            <img src={images.me}></img>
+            {/* <img src={images.me}></img>
             <motion.img
                whileInView={{ scale: [0, 1] }}
                transition={{ duration: 1, ease: "easeInOut" }}
                src={images.circle}
                alt="profile circle"
                className="overlay_circle"
-            />
+            /> */}
          </motion.div>
 
-         <motion.div
+         {/* <motion.div
             variants={scaleVariants}
             whileInView={scaleVariants.whileInView}
             className="app__header-circles"
@@ -62,7 +62,7 @@ function Header() {
                   <img src={circle} alt="circle"></img>
                </div>
             ))}
-         </motion.div>
+         </motion.div> */}
       </div>
    );
 }
