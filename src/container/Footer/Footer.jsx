@@ -50,7 +50,7 @@ function Footer() {
             <div className="app__footer-card">
                <img src={images.linkedln} />
                <a
-                  href="https://www.linkedin.com/in/onwong-a-orina-b7284b159/"
+                  href="https://www.linkedin.com/in/Denis/"
                   className="p-text"
                >
                  onwong-a-orina-b7284b159
