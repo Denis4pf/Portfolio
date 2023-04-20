@@ -52,7 +52,7 @@ function Header() {
             /> */}
          </motion.div>
 
-         {/* <motion.div
+        <motion.div
             variants={scaleVariants}
             whileInView={scaleVariants.whileInView}
             className="app__header-circles"
@@ -62,7 +62,7 @@ function Header() {
                   <img src={circle} alt="circle"></img>
                </div>
             ))}
-         </motion.div> */}
+         </motion.div>
       </div>
    );
 }
