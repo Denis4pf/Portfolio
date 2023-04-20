@@ -2,6 +2,7 @@ import email from "../assets/email.png";
 import mobile from "../assets/mobile.png";
 import api from "../assets/api.png";
 import cpp from "../assets/cpp.png";
+import resume from "../assets/Orinas.pdf;
 import css from "../assets/css.png";
 import figma from "../assets/figma.png";
 import flutter from "../assets/flutter.png";
