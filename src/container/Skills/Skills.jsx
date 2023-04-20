@@ -75,7 +75,7 @@ function Skills() {
               
          </div>
  <button className="button">
-    <a className="button" href="../assets/Orinas.pdf" download = "orinas.pdf">
+    <a className="button" href="../assets/Orinas.pdf" download = "Orinas.pdf">
       Download Resume
     </a>
 </button>
