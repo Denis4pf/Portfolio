@@ -74,11 +74,7 @@ function Skills() {
             </motion.div>
               
          </div>
- <button className="button">
-    <a className="button" href="../assets/Orinas.pdf" download = "Orinas.pdf">
-      Download Resume
-    </a>
-</button>
+ 
       </>
    );
 }
