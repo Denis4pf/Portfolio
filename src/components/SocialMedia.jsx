@@ -15,7 +15,7 @@ function SocialMedia() {
             </a>
          </div>
          <div>
-            <a href="https://www.linkedin.com/in/onwong-a-orina-b7284b159/">
+            <a href="https://www.linkedin.com/in/denisorina//">
                <BsLinkedin />
             </a>
          </div>
